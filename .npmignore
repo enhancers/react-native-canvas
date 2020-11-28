@@ -3,3 +3,10 @@ src/
 .babelrc
 bundle-html.js
 example/
+.history/
+.expo/
+.babelrc
+.eslintrc
+.gitignore
+bundle-html.js
+package-lock.json

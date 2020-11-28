@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://emojipedia-us.s3.amazonaws.com/thumbs/240/apple/96/fireworks_1f386.png"/>
-<h1>react-native-canvas</h1>
+<h1>react-native-canvas-enh</h1>
 </div>
 
 A Canvas component for React Native
@@ -8,14 +8,14 @@ A Canvas component for React Native
 ```bash
 npm install react-native-webview
 react-native link react-native-webview
-npm install react-native-canvas
+npm install react-native-canvas-enh
 ```
 
 ### Usage
 
 ```JSX
 import React, { Component } from 'react';
-import Canvas from 'react-native-canvas';
+import Canvas from 'react-native-canvas-enh';
 
 class App extends Component {
 

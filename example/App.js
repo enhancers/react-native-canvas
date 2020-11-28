@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Image, ScrollView, StatusBar, View, StyleSheet} from 'react-native';
 
-import Canvas, {Image as CanvasImage, Path2D, ImageData} from 'react-native-canvas';
+import Canvas, {Image as CanvasImage, Path2D, ImageData} from 'react-native-canvas-enh';
 
 const Example = ({sample, children}) => (
   <View style={styles.example}>
